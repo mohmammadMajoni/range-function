@@ -1,2 +1,2 @@
 # range-function
-biuld range function with class
+range function with class
